@@ -28,9 +28,9 @@ Pipeline complet d'analyse des données COVID-19 pour les pays européens :
 
 ---
 
-## 📊 Exemple de Visualisation  
-![Dashboard Preview](https://plotly.github.io/static/images/bar-charts/colored-bar-chart.png)  
-*Graphique interactif généré par le code - Cliquez/dézoomez pour explorer*
+## 📊 Visualisation Interactive
+![Dashboard COVID-19](images/dashboard.png)
+*Graphique des décès par pays européen - Données ECDC*
 
 ---
 
